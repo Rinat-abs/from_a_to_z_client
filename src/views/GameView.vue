@@ -7,7 +7,7 @@
     <h1 class="game__title">От А до Я</h1>
 
     <p class="game__description">
-    TEST
+      THIS IS TEST APP
       Нажимайте на буквы настолько быстро, насколько вы сможете! <br />
       Таймер будет запущен автоматически.
     </p>
